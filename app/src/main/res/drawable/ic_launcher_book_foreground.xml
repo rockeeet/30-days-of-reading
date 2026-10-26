@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="0.7"
+      android:scaleY="0.7"
+      android:translateX="16.2"
+      android:translateY="16.2">
+
+      <!-- Golden rays -->
+      <path
+          android:fillColor="#00000000"
+          android:strokeColor="#F2AD45"
+          android:strokeWidth="4.5"
+          android:strokeLineCap="round"
+          android:pathData="M54,17 L54,29 M34,25 L42,34 M74,25 L66,34" />
+
+      <!-- Terracotta book cover -->
+      <path
+          android:fillColor="#D87559"
+          android:pathData="M18,39 C29,37 42,43 54,53 C66,43 79,37 90,39 L90,76 C76,75 64,80 54,87 C44,80 32,75 18,76 Z" />
+
+      <!-- Left page -->
+      <path
+          android:fillColor="#FFF8F0"
+          android:pathData="M23,34 C34,34 45,40 54,49 L54,82 C44,74 34,71 23,71 Z" />
+
+      <!-- Right page -->
+      <path
+          android:fillColor="#FFFDF9"
+          android:pathData="M85,34 C74,34 63,40 54,49 L54,82 C64,74 74,71 85,71 Z" />
+
+      <!-- Page edges -->
+      <path
+          android:fillColor="#F1DCCB"
+          android:pathData="M23,71 C34,71 44,74 54,82 L54,86 C43,78 33,75 23,75 Z" />
+      <path
+          android:fillColor="#F1DCCB"
+          android:pathData="M85,71 C74,71 64,74 54,82 L54,86 C65,78 75,75 85,75 Z" />
+
+      <!-- Book spine -->
+      <path
+          android:fillColor="#E8CBB6"
+          android:pathData="M52.8,48 L55.2,48 L55.2,84 L52.8,84 Z" />
+  </group>
+</vector>

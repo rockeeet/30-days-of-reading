@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">30 Days of Reading</string>
+
+    <string name="day_1_title">Find Your Next Favorite</string>
+    <string name="day_1_description">Start with a book that genuinely sparks your curiosity. You don\'t have to choose a bestseller or a classic — the best book to begin with is one you actually want to read.</string>
+
+    <string name="day_2_title">Create Your Reading Nook</string>
+    <string name="day_2_description">Find a comfortable spot where you can relax with a book. A favorite chair, a soft blanket, and good lighting can turn a few quiet minutes into a little ritual you look forward to.</string>
+
+    <string name="day_3_title">Start with Ten Minutes</string>
+    <string name="day_3_description">You don\'t need an entire free evening to enjoy a book. Set aside just ten minutes today and let yourself get absorbed in the story without worrying about how many pages you finish.</string>
+
+    <string name="day_4_title">Give Your Book Your Attention</string>
+    <string name="day_4_description">Notifications can pull you out of a story just as you begin to enjoy it. Put your phone aside for a little while and give yourself the chance to become fully immersed in what you\'re reading.</string>
+
+    <string name="day_5_title">Collect Your Favorite Quotes</string>
+    <string name="day_5_description">When a sentence makes you pause, write it down or mark the page. Over time, you\'ll build a personal collection of ideas, feelings, and words worth returning to.</string>
+
+    <string name="expand_button_content_description">See more or less information about a reading tip.</string>
+
+</resources>
